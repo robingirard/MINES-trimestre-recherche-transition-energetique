@@ -21,6 +21,12 @@ layout: default
 
 ## Liste des sujets
 
+<form action="/search.html" method="get">
+  <label for="search-box">Search</label>
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form>
+
 **Listes des sujets proposés en 2021 rangés par thèmes**
 La liste est disponible [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/ListeSujets/ListeProjets.html)
 
