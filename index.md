@@ -31,6 +31,7 @@ title: Trimestre recherche Transition Energetique
 
 **Listes des sujets proposés en 2021 rangés par thèmes**
 La liste est disponible [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/ListeSujets/ListeProjets.html)
+Liste sujet [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/ListeSujets.html)
 
 **Listes des sujets réalisés en 2021**
 La liste est disponible [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2021/ListeProjets.html)
