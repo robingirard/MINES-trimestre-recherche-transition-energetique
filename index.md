@@ -1,4 +1,4 @@
-##  Trimestre recherche "Transition Energetique" - MINES Paris - Site de Sophia Antipolis. 
+# Trimestre recherche "Transition Energetique" - MINES Paris - Site de Sophia Antipolis. 
 
 **Le trimestre recherche transition énergétique** est une l’unité d’enseignement de formation sur la transition énergétique et d'initiation à la recherche. Cet enseignement doit vous permettre de
 *	EN CONSTRUCTION
