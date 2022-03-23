@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Trimestre recherche "Transition Energetique" - MINES Paris - Site de Sophia Antipolis.
+# Trimestre recherche "Transition Energetique"
+## - MINES Paris - Site de Sophia Antipolis.
 
 ## Description
 
