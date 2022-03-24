@@ -18,16 +18,13 @@ Liste des sujets du trimestre recherche
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
-      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      {% assign date_english = post.date | date: date_format %}
-      {% include date-french.html %}
 
-      <span class="post-meta">{{ date_french }}</span>
+      <span class="post-meta">{{ post.ID }}</span>
 
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} </a>
       </h2>
-       {{ post.excerpt }}
+       {{ post.encadrant }}
     </li>
   {% endfor %}
 </ul>
