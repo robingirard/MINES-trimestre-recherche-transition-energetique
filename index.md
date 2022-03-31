@@ -19,7 +19,7 @@ et Systèmes Energétiques ([PERSEE](https://www.persee.minesparis.psl.eu/Accuei
 **Rendu attendu et notation :** La note finale comprend une évaluation de :
 * l'implication de l'étudiant,
 * sa présentation orale lors de la soutenance organisée à l'issue du semestre (10 minutes de présentation et 10 minutes de questions devant un jury composé de chercheurs et d'experts du domaine).  
-* son article rédigé. Certins articles des années précédentes sont disponibles [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2021/ListeProjets.html)
+* son article rédigé. Certains articles des années précédentes sont disponibles dans les listes de sujets réalisés les années précédentes ci-dessous.
 
 ## Liste des sujets
 
@@ -32,8 +32,5 @@ et Systèmes Energétiques ([PERSEE](https://www.persee.minesparis.psl.eu/Accuei
 **Listes des sujets proposés en 2021 rangés par thèmes**
 La liste est disponible sur cettte [page](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/ListeSujets.html) ou en format [docx](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2021/Articles/UE32R-NRJ-SOPHIA-Liste2021.docx)
 
-**Listes des sujets réalisés en 2021 et rapports associés**
-La liste est disponible [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2021/ListeProjets.html)
-
-**Listes des sujets réalisés en 2020 et rapports associés**
-La liste est disponible [ici](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2020/ListeProjets.html)
+**Listes des sujets réalisés les années précédentes et rapports associés**
+La liste est disponible pour les années [2021](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2021/ListeProjets.html) et [2020](https://robingirard.github.io/MINES-trimestre-recherche-transition-energetique/Past/2020/ListeProjets.html).
